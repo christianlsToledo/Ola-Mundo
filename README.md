@@ -3,6 +3,6 @@
 
  Repositório criado durante uma aula ao vivo.
 
-Essa linha foi adicionada diretamento no site do GitHub!  Que impecionante.
+Essa linha foi adicionada diretamento no site do GitHub!  Que imprecionante.
 
 Agora estou testando uma atualização através de atualizações remotas com o sistema desligado.
