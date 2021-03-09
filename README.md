@@ -1,5 +1,5 @@
 # Olá, Mundo!
- Primeiro repositorio do curso de Git e GitHub com o professor Gustavo Guanabara.
+ Primeiro repositório do curso de Git e GitHub com o professor Gustavo Guanabara.
 
  Repositório criado durante uma aula ao vivo.
 
